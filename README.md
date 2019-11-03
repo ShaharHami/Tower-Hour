@@ -9,4 +9,4 @@ Based on a tutorial on Udemy by Ben Tristem and Rick Davidson.
 
 Added procedural creation of levels, entire UI + game features (upgrades, points, health, player messages)
 
-Playable version coming soon
+Playable version is at https://simmer.io/@Shahar/tower-hour
