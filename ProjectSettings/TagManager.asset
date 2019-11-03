@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NeutralBlocks
+  - EnemyBase
+  - Ground
+  - FriendlyBase
+  - EnemyCam
+  - BaseHealthText
+  - Add Tower Button Text
+  - Increase Shot Button Text
+  - EnemyFollowPoint
+  - BaseCam
+  - ZeroPoint
+  - HealthBarFill
+  - Top Cam
+  - Transition
+  - Increase Fire Rate Button Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Transition
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
